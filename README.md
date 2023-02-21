@@ -5,7 +5,7 @@ I studied applied math in National Technical University of Ukraine. At the same 
 - .NET Developer at [IN-CORE](http://in-core.com.ua/) (Mar 2010 - May 2014) - I had opportunity to develop complex system for insurance companies, that cover full cycle of their work by using such technologies as .Net Framework, .NET Web Services, SQL, jQuery, LINQ TO SQL.
 - PHP Developer at [BULK SMS Sender](https://sms.to/bulk/ukraine/) (Nov 2007 - Mar 2010) - I was responsible for backend part for bulk sms sending by using PHP language, SQL. 
     
-## Tools
+## Tools and IDE
 - PyCharm 2022
 - GitHub Desktop
 - Visual Studio 2022
